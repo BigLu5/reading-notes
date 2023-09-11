@@ -15,3 +15,5 @@ The Growth Mindset relates to understanding our limits and capabilities as a hum
 - Read around the topic
 - Be persistent
 - **Rome wasn't built in a day**
+
+> "A sailor cannot control the ocean, but he can control himself. He can study currents and weather patterns, learn good sailing techniques, and gain experience. He can learn when to sail and when to stay in the harbor. A successful sailior uses his intelligence."
