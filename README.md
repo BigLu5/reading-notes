@@ -5,7 +5,7 @@
 My name is Luke, I am currently looking for a career change into a field which aligns more with my interests.
 
 This is what we learned in lesson one:
-- [lesson-01](lesson-01)
+- [lesson-01](lesson-01.md)
 
 The Growth Mindset relates to understanding our limits and capabilities as a human being, we will fail at most things we put our mind too but being able to learn from failure and try again will inevitably lead to progress.
 
