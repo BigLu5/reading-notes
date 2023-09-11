@@ -1,7 +1,7 @@
 ### What are four important features to look for in a text editor?
 
-1. code completion.
-2. syntax highlighting.
+1. Code completion.
+2. Syntax highlighting.
 3. A nice variety of themes (to reduce eye strain and
 fatigue).
 4. The ability to choose from a healthy selection of
