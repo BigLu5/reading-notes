@@ -1,5 +1,9 @@
 # reading-notes
 
+## About me
+
+My name is Luke, I am currently looking for a career change into a field which aligns more with my interests.
+
 The Growth Mindset relates to understanding our limits and capabilities as a human being, we will fail at most things we put our mind too but being able to learn from failure and try again will inevitably lead to progress.
 
 ![NewGrowthMindset2](https://github.com/BigLu5/reading-notes/assets/144449532/f5508cc7-404d-47c7-ac62-de17ef33e4d8)
