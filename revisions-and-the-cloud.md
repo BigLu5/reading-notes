@@ -1,3 +1,7 @@
+# Introduction to GIT
+
+Git is a distributed version control system that tracks changes in files and enables collaboration among multiple users on software development and other digital content projects.
+
 ### *What is Version Control*?
 
 Version Control: Version control is a system that tracks changes to files and directories over time, allowing you to manage and keep a history of your project`s changes, collaborate with others, and revert to previous states when needed.
