@@ -31,7 +31,7 @@ Six.
 
 ### How do you create a link with Markdown?
 
-[google.com](www.google.com)
+I want to change ['this'](https://google.com) to a link to Google.
 
 ### What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 
