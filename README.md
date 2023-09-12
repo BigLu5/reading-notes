@@ -4,7 +4,9 @@
 
 My name is Luke, I am currently looking for a career change into a field which aligns more with my interests. I am currently pursuing a career in software development.
 
-This website contains all the information relating to the Tech Educators Full Stack MERN bootcamp.
+This website contains all the information relating to the Tech Educators ['Full Stack MERN bootcamp'](https://techeducators.co.uk/course/full-stack-mern-bootcamp).
+
+I want to change ['this'](https://google.com) to a link to Google.
 
 ## Code 102 notes
 
