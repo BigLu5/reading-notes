@@ -4,7 +4,7 @@
 
 My name is Luke, I am currently looking for a career change into a field which aligns more with my interests.
 
-This is what we learned today:
+Class 102 notes:
 - [lesson-01](lesson-01.md)
 - [lesson-02](lesson-02.md)
 
