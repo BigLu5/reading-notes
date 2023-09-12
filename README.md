@@ -6,35 +6,10 @@ My name is Luke, I am currently looking for a career change into a field which a
 
 This website contains all the information relating to the Tech Educators ['Full Stack MERN bootcamp'](https://techeducators.co.uk/course/full-stack-mern-bootcamp).
 
-## Code 102 notes
+## Contents  
 
-1. [lesson one](lesson-01.md)
-2. [lesson two](lesson-02.md)
-3. [lesson three](lesson-03.md)
-4. [lesson four](lesson-04.md)
-5. [lesson five](lesson-05.md)
-6. [lesson six](lesson-06.md)
-7. [lesson seven](lesson-07.md)
-8. [lesson eight](lesson-08.md)
-
-## Code 201 notes
-
-1. [lesson One](https://biglu5.github.io/reading-notes/lesson-09.md)
-2. [lesson Two](https://biglu5.github.io/reading-notes/lesson-10.md)
-3. [lesson Three](https://biglu5.github.io/reading-notes/lesson-11.md)
-4. [lesson Four](https://biglu5.github.io/reading-notes/lesson-12.md)
-5. [lesson Five](https://biglu5.github.io/reading-notes/lesson-13.md)
-6. [lesson Six](https://biglu5.github.io/reading-notes/lesson-14.md)
-7. [lesson Seven](https://biglu5.github.io/reading-notes/lesson-15.md)
-8. [lesson Eight](https://biglu5.github.io/reading-notes/lesson-16.md)
-9. [lesson Nine](https://biglu5.github.io/reading-notes/lesson-17.md)
-10. [lesson Ten](https://biglu5.github.io/reading-notes/lesson-18.md)
-11. [lesson Eleven](https://biglu5.github.io/reading-notes/lesson-19.md)
-12. [lesson Twelve](https://biglu5.github.io/reading-notes/lesson-20.md)
-13. [lesson Thirteen](https://biglu5.github.io/reading-notes/lesson-21.md)
-14. [lesson Fourteen](https://biglu5.github.io/reading-notes/lesson-22.md)
-15. [lesson Fifteen](https://biglu5.github.io/reading-notes/lesson-23.md)
-
+[Code 102](/code-102-contents.md)  
+[Code 201](/code-201-contents.md)
 
 
 
