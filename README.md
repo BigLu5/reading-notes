@@ -8,14 +8,14 @@ This website contains all the information relating to the Tech Educators Full St
 
 ## Code 102 notes
 
-1. [lesson-01](lesson-01.md)
-2. [lesson-02](lesson-02.md)
-3. [lesson-03](lesson-03.md)
-4. [lesson-04](lesson-04.md)
-5. [lesson-05](lesson-05.md)
-6. [lesson-06](lesson-06.md)
-7. [lesson-07](lesson-07.md)
-8. [lesson-08](lesson-08.md)
+1. [lesson one](lesson-01.md)
+2. [lesson two](lesson-02.md)
+3. [lesson three](lesson-03.md)
+4. [lesson four](lesson-04.md)
+5. [lesson five](lesson-05.md)
+6. [lesson six](lesson-06.md)
+7. [lesson seven](lesson-07.md)
+8. [lesson eight](lesson-08.md)
 
 ## Code 201 notes
 
